@@ -40,4 +40,5 @@ config :horse_racing_demo, HorseRacingDemo.Repo,
   password: "postgres",
   database: "horse_racing_demo_dev",
   hostname: "localhost",
+  port: "32768",
   pool_size: 10
